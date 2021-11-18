@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/longz3r/Long-Utilities#readme",
   "dependencies": {
-    "discord.js": "^13.3.1"
+    "discord.js": "^13.3.1",
+    "path": "^0.12.7",
+    "wokcommands": "^1.5.3"
   }
 }
