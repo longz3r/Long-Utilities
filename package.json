@@ -1,0 +1,22 @@
+{
+  "name": "long-utilities",
+  "version": "1.0.0",
+  "description": "discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/longz3r/Long-Utilities.git"
+  },
+  "author": "Long Zer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/longz3r/Long-Utilities/issues"
+  },
+  "homepage": "https://github.com/longz3r/Long-Utilities#readme",
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  }
+}
